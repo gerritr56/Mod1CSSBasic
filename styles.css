@@ -1,0 +1,53 @@
+body {
+        color: black;
+        font-family: sans-serif;
+        line-height: 1.6em;
+}
+h1 { 
+    color: rgb(4, 4, 122);
+    margin-left: 1em;
+}
+p3 {
+    color: crimson;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.blue-border {
+    border: 3px solid rgb(4, 4, 122);
+}
+.box {
+    background-color: darkgrey;
+}
+
+#grey-background {
+    background-color: rgb(223, 224, 223);
+}
+
+.container {
+    background-color: darkgrey;
+    margin-bottom: 2em;
+    width: 100%;
+    text-align: center;
+}
+
+footer {
+    color: rgb(4, 4, 122);
+    font-size: 0.8em;
+    font-weight: bold;
+
+}
+
+div.a {
+    text-align: right;
+    color: crimson;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+div.b {
+    text-align: left;
+    color: crimson;
+    font-size: 16px;
+    font-weight: bold;
+  }
